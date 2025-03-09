@@ -48,4 +48,4 @@ Logo sizing should be set to `auto`.
 
 Below screenshot shows a sample setup in [shields.io badge creation screen](https://shields.io/badges/static-badge).
 
-![Form](./shields.io%20Form.png)
+![Form](./Shields.io_Form.png)
