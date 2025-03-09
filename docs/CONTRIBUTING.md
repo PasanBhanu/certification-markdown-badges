@@ -20,7 +20,7 @@ Follow guidelines listed below to add new badge.
 - Icons should be used from [Simple Icons](https://simpleicons.org) and Badge Color should follow and represent the branding properly. (Ex: For AWS use #FF9900)
 - Badges are ordered alphabetically, hence upon adding make sure the badge is added in the correct order.
 - For certification name, try to use the shortened form as much as possible. In case you think submitting short and long format, feel free to submit both.
-- Badge should follow below formatting. You can read more on the format in Create Badge Guideline below.
+- Badge should follow below formatting. You can read more on the format in [Create Badge Guideline](#create-badge-guideline) below.
 
 ```
 ![Badge Name](https://img.shields.io/badge/<Cerificate Name>-<Badge Color>?style=for-the-badge&logo=<Logo>&logoSize=auto)
@@ -48,3 +48,4 @@ Logo sizing should be set to `auto`.
 
 Below screenshot shows a sample setup in [shields.io badge creation screen](https://shields.io/badges/static-badge).
 
+![Form](./shields.io%20Form.png)
