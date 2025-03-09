@@ -23,12 +23,12 @@ Follow guidelines listed below to add new badge.
 - Badge should follow below formatting. You can read more on the format in [Create Badge Guideline](#create-badge-guideline) below.
 
 ```
-![Badge Name](https://img.shields.io/badge/<Cerificate Name>-<Badge Color>?style=for-the-badge&logo=<Logo>&logoSize=auto)
+![Badge Name](https://img.shields.io/badge/<Cerificate Name>-<Badge Color>?style=for-the-badge&logo=<Logo>&logoColor=ffffff&logoSize=auto)
 ```
 
 Example for AWS Certified Solution Architect
 ```
-![AWS Certified Solution Architect](https://img.shields.io/badge/Solution_Architect-FF9900?style=for-the-badge&logo=amazonwebservices&logoSize=auto)
+![AWS Certified Solution Architect](https://img.shields.io/badge/Solution_Architect-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=ffffff&logoSize=auto)
 ```
 
 #### Step 3
